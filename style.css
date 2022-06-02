@@ -1,0 +1,9 @@
+.cardapio{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
